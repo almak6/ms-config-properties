@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abd97541-6d80-45ed-8723-da11e2e4eb4c" name="Changes" comment="first commit with empty files">
+    <list default="true" id="abd97541-6d80-45ed-8723-da11e2e4eb4c" name="Changes" comment="structure change">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,27 +21,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/123/IdeaProjects/microservice-example/ms-config-properties",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/123/IdeaProjects/microservice/ms-config-properties/src/Main.java",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/123/IdeaProjects/microservice-example/ms-config-properties&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/123/IdeaProjects/microservice/ms-config-properties/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\123\IdeaProjects\microservice\ms-config-properties\test" />
       <recent name="C:\Users\123\IdeaProjects\microservice\ms-config-properties\master" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\123\IdeaProjects\microservice-example\ms-config-properties\servise_1" />
       <recent name="C:\Users\123\IdeaProjects\microservice-example" />
     </key>
   </component>
@@ -55,6 +56,7 @@
       <updated>1687091539516</updated>
       <workItem from="1687091540664" duration="772000" />
       <workItem from="1687092361733" duration="598000" />
+      <workItem from="1687095087446" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="first commit with empty files">
       <created>1687092536003</created>
@@ -63,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687092536003</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="structure change">
+      <created>1687095233789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687095233789</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,7 +106,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="first commit with empty files" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit with empty files" />
+    <MESSAGE value="structure change" />
+    <option name="LAST_COMMIT_MESSAGE" value="structure change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
